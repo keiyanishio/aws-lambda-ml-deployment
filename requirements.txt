@@ -1,0 +1,8 @@
+boto3
+pandas
+numpy
+scikit-learn
+pickle5
+python-dotenv
+requests
+lightgbm
